@@ -1,9 +1,14 @@
 # 401 JS
 db
 .env
+.editorconfig
+.eslintignore
+.eslintrc.json
+.gitattributes
 temp
 build
 memory
+.sequelizerc
 
 # Created by https://www.gitignore.io/api/vim,osx,node,linux,windows
 ### Linux ###
